@@ -28,7 +28,7 @@ role: Pre-doctoral Researcher
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Materials Research Lab
-    url: [https://www.me.iitb.ac.in/~a_jain/]
+    url: https://www.me.iitb.ac.in/~a_jain/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -51,15 +51,14 @@ interests:
 education:
   - area: BTech Chemical Engineering (Honors)
     institution: IIT Bombay
-    icon: "<img width="1200" height="1170" alt="Indian_Institute_of_Technology_Bombay_Logo svg" src="https://github.com/user-attachments/assets/18a93939-4602-4d26-b83b-07d25c867661" />"
+    icon: '<img width="1200" height="1170" alt="Indian_Institute_of_Technology_Bombay_Logo svg" src="https://github.com/user-attachments/assets/18a93939-4602-4d26-b83b-07d25c867661" />'
     date_start: Nov 2021
     date_end: May 2025
-    summary:
-      Ranked 5 out of 124 students.
-      Affiliated activities: Chemical Engineering Association, ChemE Tinkerer's Lab, Institute Technical Council, Mood Indigo, Insight (Student Journalism), Inter-IIT Dance Contingent, Insync, Swim Team, and event organisation and hosting for SemiX, IITB PRO, KCDH, and more.
+    summary: Ranked 5 out of 124 students.
+    Affiliated activities: Chemical Engineering Association, ChemE Tinkerer's Lab, Institute Technical Council, Mood Indigo, Insight (Student Journalism), Inter-IIT Dance Contingent, Insync, Swim Team, and event organisation and hosting for SemiX, IITB PRO, KCDH, and more.
   - area: Chemical Engineering (Foreign Exchange)
-    institution: Danmarks Tekniske Universitet
-    icon: "<img width="186" height="271" alt="download" src="https://github.com/user-attachments/assets/53554c67-c913-4d7e-80f3-153e31f6124f" />"
+    institution: Danmarks Tekniske Universitet (Technical University of Denmark)
+    icon: '<img width="186" height="271" alt="DTU logo" src="https://github.com/user-attachments/assets/53554c67-c913-4d7e-80f3-153e31f6124f" />'
     date_start: Sep 2024
     date_end: Jan 2025
     summary:
