@@ -34,11 +34,14 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
+    icon_pack: hero  # Assuming this is a Heroicon
     url: 'mailto:srishtibkhandelwal@gmail.com'
     label: Personal E-mail
-  - icon: brands/github
+  - icon: github
+    icon_pack: fab   # 'fab' stands for FontAwesome Brands
     url: https://github.com/srishti-badaya
-  - icon: brands/linkedin
+  - icon: linkedin
+    icon_pack: fab
     url: https://www.linkedin.com/in/srishti-k-badaya/
 
 interests:
@@ -51,18 +54,20 @@ interests:
 education:
   - area: BTech Chemical Engineering (Honors)
     institution: IIT Bombay
-    icon: custom/IITB
     date_start: Nov 2021
     date_end: May 2025
+    icon: IITB
+    icon_pack: custom
     summary: |
       Ranked 5 out of 124 students.
       Affiliated activities: Chemical Engineering Association, ChemE Tinkerer's Lab, Institute Technical Council, Mood Indigo, Insight (Student Journalism), Inter-IIT Dance Contingent, Insync, Swim Team, and event organisation and hosting for SemiX, IITB PRO, KCDH, and more.
 
   - area: Chemical Engineering (Foreign Exchange)
     institution: Danmarks Tekniske Universitet (Technical University of Denmark)
-    icon: custom/DTU
     date_start: Sep 2024
     date_end: Jan 2025
+    icon: DTU
+    icon_pack: custom
     summary: |
       Recieved ~ €1000 travel grant from IIT Bombay.
       Completed 47.5 ECTS of Robotics and Chemical Engineering courses in my pre-final Bachelor semester.
@@ -74,7 +79,7 @@ work:
     icon: ''
     date_start: ''
     date_end: ''
-    summary: |2-
+    summary: |
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
     
   - position: AI Research Intern
@@ -95,14 +100,17 @@ skills:
         description: ''
         percent: 85
         icon: code-bracket
+        icon_pack: hero
       - name: PyTorch & Machine Learning Fundamentals
         description: ''
         percent: 85
         icon: chart-bar
+        icon_pack: hero
       - name: Cloud Computing (GCP)
         description: ''
         percent: 85
         icon: cloud
+        icon_pack: hero
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -111,22 +119,28 @@ skills:
         description: ''
         percent: 90
         icon: person-simple-walk
+        icon_pack: fas # Standard FontAwesome Solid
       - name: Sci-Fi Reading
         description: ''
         percent: 85
         icon: book-open
+        icon_pack: fas
       - name: Long Trips with Friends & Family
         description: ''
         percent: 80
         icon: plane
+        icon_pack: fas
       - name: Dance
         description: ''
         percent: 80
         icon: shoes
+        icon_pack: fas # Verify if 'shoes' exists in FAS, might need 'shoe-prints'
       - name: Writing
         description: ''
         percent: 70
         icon: pen
+        icon_pack: fas
+
 languages:
   - name: English
     percent: 100
@@ -136,29 +150,29 @@ languages:
     percent: 45
 
 # Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: NUS Young Fellow
     url: https://cde.nus.edu.sg/graduate/2026-nus-young-fellowship/
     date: '2024'
     awarder: National University of Singapore
-    icon: hero/academic-cap
+    icon: academic-cap
+    icon_pack: hero
     summary: |
       1 of 5 Indians selected by NUS for 1-week on campus, 3-weeks online fellowship program.
   - title: Industrial Design Problem
     url: https://www.instagram.com/p/Cng9OwfsN5t/
     date: 'March 2023'
     awarder: AZeotropy
-    icon: hero/trophy
+    icon: trophy
+    icon_pack: hero
     summary: |
       Finalist (Top 5 teams in India) for designing a techno-econimcally feasible Aquatic Effluent Segregator for creeks in Maharashtra.
   - title: Vishwakarma Award for Engineering Innovation
     url: https://makerbhavanfoundation.org/vishwakarma-award-3/
     date: '2023'
     awarder: MakerBhavan Foundation
-    icon: hero/trophy
+    icon: trophy
+    icon_pack: hero
     summary: |
       Top 10 teams in India for the Water and Sanitation Track.
 ---
