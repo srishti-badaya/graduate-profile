@@ -51,17 +51,19 @@ interests:
 education:
   - area: BTech Chemical Engineering (Honors)
     institution: IIT Bombay
-    icon: assets/media/icons/custom/IITB.svg
+    icon: custom/IITB
     date_start: Nov 2021
     date_end: May 2025
-    summary: Ranked 5 out of 124 students.
-    Affiliated activities: Chemical Engineering Association, ChemE Tinkerer's Lab, Institute Technical Council, Mood Indigo, Insight (Student Journalism), Inter-IIT Dance Contingent, Insync, Swim Team, and event organisation and hosting for SemiX, IITB PRO, KCDH, and more.
+    summary: |
+      Ranked 5 out of 124 students.
+      Affiliated activities: Chemical Engineering Association, ChemE Tinkerer's Lab, Institute Technical Council, Mood Indigo, Insight (Student Journalism), Inter-IIT Dance Contingent, Insync, Swim Team, and event organisation and hosting for SemiX, IITB PRO, KCDH, and more.
+
   - area: Chemical Engineering (Foreign Exchange)
     institution: Danmarks Tekniske Universitet (Technical University of Denmark)
-    icon: assets/media/icons/custom/DTU.svg
+    icon: custom/DTU
     date_start: Sep 2024
     date_end: Jan 2025
-    summary:
+    summary: |
       Recieved ~ €1000 travel grant from IIT Bombay.
       Completed 47.5 ECTS of Robotics and Chemical Engineering courses in my pre-final Bachelor semester.
 
@@ -70,10 +72,11 @@ work:
     company_name: a
     company_url: 'https://ai.meta.com/'
     icon: ''
-    date_start: 2020-01-01
+    date_start: ''
     date_end: ''
     summary: |2-
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+    
   - position: AI Research Intern
     company_name: OpenAI
     company_url: 'https://openai.com/'
