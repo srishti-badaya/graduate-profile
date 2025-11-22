@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Srishti Badaya
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 'SRISH-tee Buh-DAA-yaah'
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Srishti
+last_name: Badaya
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: she/her
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 👩🏻‍💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,65 +23,48 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Pre-doctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Materials Research Lab
+    url: [https://www.me.iitb.ac.in/~a_jain/]
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: 'mailto:srishtibkhandelwal@gmail.com'
+    label: Personal E-mail
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/srishti-badaya
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/srishti-k-badaya/
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Soft Matter Physics
+  - Complex Systems
+  - Mathematical Modelling
+  - Robotics
+  - Catalysis
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+  - area: BTech Chemical Engineering (Honors)
+    institution: IIT Bombay
+    icon: "<img width="1200" height="1170" alt="Indian_Institute_of_Technology_Bombay_Logo svg" src="https://github.com/user-attachments/assets/18a93939-4602-4d26-b83b-07d25c867661" />"
+    date_start: Nov 2021
+    date_end: May 2025
+    summary:
+      Ranked 5 out of 124 students.
+      Affiliated activities: Chemical Engineering Association, ChemE Tinkerer's Lab, Institute Technical Council, Mood Indigo, Insight (Student Journalism), Inter-IIT Dance Contingent, Insync, Swim Team, and event organisation and hosting for SemiX, IITB PRO, KCDH, and more.
+  - area: Chemical Engineering (Foreign Exchange)
+    institution: Danmarks Tekniske Universitet
+    icon: "<img width="186" height="271" alt="download" src="https://github.com/user-attachments/assets/53554c67-c913-4d7e-80f3-153e31f6124f" />"
+    date_start: Sep 2024
+    date_end: Jan 2025
+    summary:
+      Recieved ~ €1000 travel grant from IIT Bombay.
+      Completed 47.5 ECTS of Robotics and Chemical Engineering courses in my pre-final Bachelor semester.
 
 work:
   - position: Senior AI Research Scientist
