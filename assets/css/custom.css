@@ -1,24 +1,25 @@
 /* assets/css/custom.css */
 
 .avatar-status {
-  /* 1. Increase the circle size (Default is usually ~1.5rem) */
-  width: 3.5rem !important; 
-  height: 3.5rem !important;
+  /* 1. Massive Circle Size */
+  width: 8rem !important;   /* Previously 3.5rem */
+  height: 8rem !important;
   
-  /* 2. Increase the emoji font size */
-  font-size: 2rem !important;
+  /* 2. Massive Emoji Size */
+  font-size: 5rem !important; /* Previously 2rem */
   
-  /* 3. Force flexbox centering to keep emoji in the middle */
+  /* 3. Centering (Keep this) */
   display: flex !important;
   align-items: center !important;
   justify-content: center !important;
   
-  /* 4. Adjust position so it doesn't cover the face too much */
-  /* You can tweak these negative numbers to move it further out */
-  bottom: -0.2rem !important;
-  right: -0.2rem !important;
+  /* 4. Position Adjustments */
+  /* Since the circle is bigger, we move it slightly more "in" so it doesn't float away */
+  bottom: -1rem !important;
+  right: -1rem !important;
   
-  /* 5. Optional: Add a white border to separate it from the photo */
-  border: 2px solid white !important;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1) !important;
+  /* 5. Thicker border to match the scale */
+  border: 4px solid white !important;
+  box-shadow: 0 6px 12px rgba(0,0,0,0.15) !important;
+  
 }
