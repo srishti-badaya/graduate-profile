@@ -51,7 +51,7 @@ interests:
   - Robotics
   - Catalysis
 
-education:
+resume-education:
   - area: BTech Chemical Engineering (Honors)
     institution: IIT Bombay
     date_start: Nov 2021
@@ -72,7 +72,7 @@ education:
       Recieved ~ €1000 travel grant from IIT Bombay.
       Completed 47.5 ECTS of Robotics and Chemical Engineering courses in my pre-final Bachelor semester.
 
-work:
+resume-experience:
   - position: a
     company_name: a
     company_url: 'https://ai.meta.com/'
@@ -93,7 +93,7 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
+resume-skills:
   - name: Technical Skills
     items:
       - name: Python
@@ -141,7 +141,7 @@ skills:
         icon: pen
         icon_pack: fas
 
-languages:
+resume-languages:
   - name: English
     percent: 100
   - name: French
@@ -150,7 +150,7 @@ languages:
     percent: 45
 
 # Awards.
-awards:
+resume-awards:
   - title: NUS Young Fellow
     url: https://cde.nus.edu.sg/graduate/2026-nus-young-fellowship/
     date: '2024'
